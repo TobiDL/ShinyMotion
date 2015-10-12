@@ -1,2 +1,2 @@
-# ShinyMotion
-Our little app for Local Hack Day 2015
+# lhd-android-app
+App for local hackday
